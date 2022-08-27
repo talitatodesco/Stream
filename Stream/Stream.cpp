@@ -62,8 +62,11 @@ int main() {
 			cout << "Invalido ";
 			break;
 
-
-		}
+		} 
 	}
+
+
+	system("pause");
+	return 0; 
 
 }
